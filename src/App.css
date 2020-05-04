@@ -1,14 +1,13 @@
 .section-search input[type="text"] {
   padding: 5px 0 !important;
   font-size: 18px !important;
-  width:100% !important;
+  width: 100% !important;
   border: #f4f4f4 3px solid !important;
   padding-left: 10px !important;
 }
 
 .section-popular .card-image img {
   height: 200px !important;
-  width: auto;
   object-fit: cover !important;
 }
 
